@@ -1,0 +1,45 @@
+.nas{
+    background-color: orange;
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+.nav{
+    text-align: right;
+    padding: 20px;
+}
+
+.bingo{
+    background-color: brown;
+    text-align: left;
+    padding: 20px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.bush{
+    text-align: right;
+    border-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.HISTORY{
+    border-color: brown;
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 25px;
+    padding: 20px;
+}
+.no{
+    align-items: center;
+    border: #16045b 5px solid;
+    width: 40%; 
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    padding:20px ;
+ border-radius: 20px;
+}

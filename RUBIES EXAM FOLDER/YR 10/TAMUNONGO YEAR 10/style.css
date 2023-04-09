@@ -1,0 +1,11 @@
+body{
+    background-color: darksalmon;
+}
+.pro{
+    display: flex;
+}
+.pro-img{
+    border-radius: 50px;
+    border: blue 5px solid;
+}
+

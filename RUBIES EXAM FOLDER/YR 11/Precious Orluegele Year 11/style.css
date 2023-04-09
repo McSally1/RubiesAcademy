@@ -1,0 +1,26 @@
+.nav-bar{
+ background-color: darkorange;
+ font-size: 20px;
+ text-align: right;
+ padding-right: 5%;
+}
+.about-theschool{
+    background-color: deeppink; 
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.the-history{
+background-color: saddlebrown;
+font-size: 20px;
+}
+.heading{
+    font-size: 20px;
+    
+}
+.pictures{
+    display: flex;
+    width: 30%;
+    border-radius: 20px;
+}

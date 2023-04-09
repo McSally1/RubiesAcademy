@@ -1,0 +1,39 @@
+.auto{
+    background-color: chocolate;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.auto2{
+    background-color: deeppink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-style: normal;
+    margin: 5px; 
+    padding: 50px;
+    border-radius: 20px;
+    border: #16045b 5px solid;
+}
+
+.auto3{
+    background-color: peru;
+    font-size: 30px;
+    font-style: normal ;
+    margin: 5px; 
+    padding: 80px;
+    border-radius:20px ;
+    border: 16045b 5px solid ;
+}
+
+.auto4{
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+    padding: 20px;
+    text-align: right;
+}

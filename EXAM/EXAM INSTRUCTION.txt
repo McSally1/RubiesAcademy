@@ -1,0 +1,12 @@
+EXAM INSTRUCTIONS:
+
+RECREATE THE WEBSITE.
+
+N/B:
+For image, use:
+width: 50%;
+border-radius: 20px;
+border: #16045b 5px solid;
+
+For all write-up,
+font-size: 20px

@@ -1,0 +1,36 @@
+body{
+    background-color: red;
+}
+.nav-bar{
+    
+    font-size: 20px;
+    margin: 20px;
+    padding: 30px;
+    display: right;
+}
+
+.pictures{
+    width: 50px;
+    border-radius: 20px;
+    margin: 20px;
+}
+p{
+    font-size: 20px;
+}
+.history{
+   background-color: purple;
+   font-style: italic; 
+
+}
+.nav1{
+    background-color: steelblue;
+    font-style:normal ;
+}
+.navbar{
+background-color: white;
+font font-style: flex-direction: ;
+}
+
+
+
+

@@ -1,0 +1,41 @@
+.name{
+    background-color:hsl(39, 100%, 50%);
+    color:blueviolet;
+    font-size: 20px;
+    text-align: center;
+}
+.pan{
+    text-align: right;
+}
+
+.ref{
+    background-color: brown;
+    border: 15px coral;
+    color: cornsilk;
+    display: flex;
+    font-size: 20px;
+}
+.e{
+margin: 10px;
+
+font-size: 20px;
+}
+
+
+.mad{
+    background-color: crimson;
+    font-size: 20px;
+}
+
+.picture{
+    width: 30%;
+    border-radius: 20px;
+    border: #00008b 5px solid;
+}
+
+.java{
+    background-color: darkgray;
+}
+.pictures{
+    width: 50%;
+}

@@ -1,0 +1,64 @@
+body{
+    color: white;
+}
+
+h1{
+    color: black;
+}
+
+.intro{
+    background-color: orange;
+}
+
+.links{
+    text-align: right;
+}
+
+.link1{
+    padding: 25px;
+    font-size: 20px;
+}
+
+.head{
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+}
+
+.part1{
+    background-color: rgb(255, 22, 139);
+    display: flex;
+    font-size: 20pt;
+    padding: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.image1{
+width: 50%;
+border-radius: 20px;
+border: #16045b 5px solid;
+
+}
+
+.part2{
+    background-color: orange;
+    font-size: 20pt;
+}
+
+.CON{
+    display: flex;
+    background-color: bisque;
+    padding: 20px;
+}
+
+.image2{
+width: 50%;
+border-radius: 20px;
+border: #16045b 5px solid;
+}
+
+p{
+    margin: 40px;
+    padding: 20px;
+}

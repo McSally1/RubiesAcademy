@@ -1,0 +1,48 @@
+.bar{
+    background-color: burlywood;
+    font-size: 20px;
+    text-align: center;
+    padding: 40px;
+}
+.nav1{
+    float: right;
+   padding: 12px;
+}
+.big{
+    font-size: 60px;
+color: white;
+}
+.box{
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.don{
+    border: 5px #16045b solid;
+    border-radius: 20px; 
+    width: 500px;
+}
+.box1{
+    background-color: chocolate;
+    justify-content: center;
+    padding: 60px;
+}
+body{
+    font-size: 20px;
+    color: white;
+}
+h1{
+    color: #16045b;
+}
+.box2{
+    background-color: papayawhip;
+    justify-content: center;
+    padding: 60px
+}
+.don1{
+    border: 5px #16045b solid;
+    border-radius: 20px; 
+    margin: 20px;
+    width: 350px;
+}

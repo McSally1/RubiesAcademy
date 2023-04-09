@@ -1,0 +1,70 @@
+.codes{
+    background-color: chocolate;
+}
+.task{
+    font-size: 20px;
+    color: white;
+    text-align: right;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+h2{
+    font-size: 40px;
+    color: blue;
+}
+
+.page{
+    font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  border-radius: 20px;
+  border: 16045 5px solid;  
+  background-color:mediumvioletred;
+}
+
+.page2{
+    width: 50% ;
+    border: #16045b 5px solid;
+    border-radius: 20px ;
+}
+
+h3{
+    font-size: 40px;
+    color: blue;
+}
+
+.design{
+    font-size: 20px;
+    background-color: chocolate;
+    margin: auto;
+}
+
+h4{
+    font-size: 40px;
+    color: blue;
+}
+
+.design2{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    border: 16045 5px solid;
+    padding: 20px;
+    background-color: lightpink;
+}
+
+.design3{
+    width: 50%;
+    padding: 20px;
+    border: 5px solid #16045b;
+    border-radius: 20px;
+}
+
+
+

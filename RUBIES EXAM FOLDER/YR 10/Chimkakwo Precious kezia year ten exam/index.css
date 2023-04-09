@@ -1,0 +1,40 @@
+.life{
+    background-color: chocolate;
+    text-align: center;
+    margin-block-end: 20px;
+    font-size: 30px;
+    
+
+}
+.love{
+    background-color: hotpink;
+    font-size:20px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.luck{
+    background-color: chocolate;
+    font-size:20px ;
+    align-items: center;
+    justify-content: center;
+}
+.loop{
+border-radius: 20px;
+background-color: antiquewhite;
+justify-content: center;
+width: 100%;
+border: 5px solid red;
+}
+.loose{
+    font-size: 30px;
+    
+}
+.lake{
+    font-size: 30px;
+}
+.nav-bar{
+    text-align: right;
+
+}

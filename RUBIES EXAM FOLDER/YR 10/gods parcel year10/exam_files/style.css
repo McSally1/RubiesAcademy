@@ -1,0 +1,27 @@
+.name{
+    background-color: blue;
+color: salmon;
+font-size: 20px;
+display: flex;
+}
+
+
+
+.ref{
+    background-color: seagreen;
+    border: 15px cyan;
+    color: darkorange;
+    display: flex;
+    font: 20px;
+}
+.a{
+    margin:20px
+
+
+}
+
+.cel{
+    background-color: crimson;
+    font-size: 20px;
+}
+

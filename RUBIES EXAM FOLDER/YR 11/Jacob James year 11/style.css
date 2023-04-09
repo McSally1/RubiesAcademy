@@ -1,0 +1,32 @@
+.a{
+    font-size: 20px;
+    text-align: right;
+   background-color:blue ;
+   border-radius: 20px;
+border: #2f00ff 5px solid; 
+}
+.b{
+    font-size: 20px;
+    text-align: center;
+    border-radius: 20px;
+    border: #a31010 5px solid; 
+}
+.c{
+    font-size: 20px;
+    background-color: rgb(255, 1, 1);
+    border: #ff0000 5px solid;
+    border-radius: 20px; 
+}
+.e{font-size: 20px;
+   background-color:rgb(111, 255, 0) ;
+   border-radius: 20px;
+border: #34db17 5px solid; 
+
+}
+.f{
+    font-size: 20px;
+    text-align: center;
+    border-radius: 20px;
+    border: #a31099 5px solid; 
+    background-color: #a31099;
+}

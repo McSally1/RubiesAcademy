@@ -1,0 +1,61 @@
+.bar{
+    background-color: coral;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.nav1{
+    float: right;
+    padding: 14px;
+}
+
+.big{
+    font-size: 35px;
+    color: white;
+}
+
+.name{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+    font-size: 25px;
+}
+
+.name2{
+    width: 50%;
+    border-radius: 20px;
+    border: #16045b 5px solid;
+}
+
+.damage{
+    background-color: chocolate;
+    justify-content: center;
+    padding: 50px ;
+    font-size: 25px;
+}
+.body{
+    font-size: 20px;
+    color: white;
+}
+
+.h1{
+    color: #16045b;
+}
+
+.danger{
+    background-color: aqua;
+    justify-content: center;
+    padding: 50px;
+}
+
+.danger1{
+    border: #16045b 5px solid;
+    border-radius: 20px;
+    margin: 20px;
+    width: 29%;
+}
+
+
+

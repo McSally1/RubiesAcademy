@@ -1,0 +1,33 @@
+.nav-bar{
+    background-color: rgb(231, 110, 88);
+    padding: 80px;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 5px;
+}
+.Our_Memories{
+    background-color:grey;
+  max-width: 50%;
+    display: flex;
+    border-radius: 20px;
+}
+.history{
+background-color: rgb(255, 102, 0);
+font-style: normal;
+font-size: 20px;
+border-radius:20px ;
+border: 5px;
+}
+.joyfully{
+    background-color: fuchsia;
+    font-size: 20px;
+    display: flex;
+    border-radius: 20px;
+    border: 5px;
+}
+.pics{
+    max-width: 50%;
+    text-align: right;
+    background-color: gray;
+}

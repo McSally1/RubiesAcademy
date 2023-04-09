@@ -1,0 +1,57 @@
+
+.name{
+background-color: coral;
+text-align: center;
+color: azure;
+font-size: 20px;
+}
+
+.tasks{
+font-size: 20px;
+color: azure;
+text-align: right;
+padding: 20px;
+}
+.page1{
+    padding: 10px;
+}
+.page2{
+    padding: 10px;
+}
+.page3{
+    padding: 10px;
+}
+.page4{
+    padding: 10px;
+}
+.chapter{
+background-color: deeppink;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0px;
+padding: 5px;
+font-size: 35px;
+}
+.chapter2{
+    width: 300%;
+    border-radius: 20px;
+    border:#16045b 5px solid;
+    
+}
+
+.book{
+background-color: chocolate;
+ font-size: 35px;
+}
+.h1{
+    font-size: 30px;
+}
+.book3{
+    width: 32%;
+    border-radius: 20px;
+    border: #16045b 3px solid;
+}
+.book{
+    background-color: blanchedalmond;
+}

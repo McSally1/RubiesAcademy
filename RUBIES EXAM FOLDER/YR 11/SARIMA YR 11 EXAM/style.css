@@ -1,0 +1,34 @@
+.yay{
+    background-color: peru;
+    text-align: center;
+    padding: 50px;
+}
+.school{
+    background-color: violet;
+    font-size: 20px;
+    text-align: left;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.history{
+    background-color: brown;
+    font-size: 20px;
+}
+.photos{
+    width: 70%;
+    border-radius: 20px;
+    border: #16045b 5px solid;
+    background-color: peachpuff;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    ;
+}
+img{
+    border-radius: 20px;
+    border: #16045b 5px solid;
+    width: 70%;
+}
